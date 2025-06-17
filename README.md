@@ -20,28 +20,6 @@ An Android application that uses machine learning to detect plant diseases from 
 - **Minimum SDK**: 24 (Android 7.0)
 - **Target SDK**: 35
 
-# Plant Disease Detector
-
-An Android application that uses machine learning to detect plant diseases from leaf images in real-time.
-
-## Features
-
-- 📸 Real-time camera preview
-- 🤖 ML-powered plant disease detection
-- 📊 Confidence score display
-- 🎯 Easy-to-use interface
-- 📱 Works on Android 7.0 (API 24) and above
-
-## Technical Stack
-
-- **Language**: Kotlin
-- **ML Framework**: TensorFlow Lite
-- **Camera**: CameraX
-- **UI Components**: Material Design
-- **Architecture**: MVVM
-- **Minimum SDK**: 24 (Android 7.0)
-- **Target SDK**: 35
-
 ## Prerequisites
 
 - Android Studio Arctic Fox or newer
